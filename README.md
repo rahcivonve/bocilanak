@@ -1,2 +1,1 @@
-# bocilanak
-bocilanak
+# [bocilanak](https://bocilanak.pages.dev)
